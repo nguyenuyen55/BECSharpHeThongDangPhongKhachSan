@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bYxcNcJcfq1YPG4o+8qm8wFaG8sldmb4D5PDjJ4Zwaf9CiWpuKrbcgv9f9OiWRRku+634RvppliYPgi1i7hwjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uyen.nguyen\\source\\repos\\BECSharp\\BECSharpHeThongDangPhongKhachSan\\BeCsharpHTDatPhongKsan\\BE.CsharpHTDatPhongKSan.DataAccess\\BE.CsharpHTDatPhongKSan.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uyen.nguyen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\uyen.nguyen\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\uyen.nguyen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
